@@ -1,0 +1,8 @@
+panel
+jupyter
+transformers
+numpy
+torch
+aiohttp
+altair==5.2.0
+vega_datasets
