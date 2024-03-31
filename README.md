@@ -20,6 +20,8 @@ The code used to modify the data is named `NatAs_Data.ipynb`.
 
 The data used in the second visualization was not modified. It is stored in the `data` folder as well.
 
+Please note that the relative link in the code might need some modification. All the data is stored in the folder `data`, but some file expect the data to be in the same folder. Do be mindful of this and either change the relative address or move the data to the same folder location as the code.
+
 ## Interactive Visualizations
 
 To view the final interactive visualizations, please click on the following links:
